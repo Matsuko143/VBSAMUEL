@@ -1,0 +1,7 @@
+X=MsgBox("Your PC has been Hacked",0+16,"WARNING!")
+X=MsgBox("Virus has infected your PC,Deletion of virus required you to press 'yes'",4+16,"WARNING!")
+X=MsgBox("To delete the virus, kindly answer the question",0+16,"WARNING!")
+X=MsgBox("Do...",0,"<3")
+X=MsgBox("You...",0,"<3")
+X=MsgBox("Like me?... >,<",0,"<3")
+X=MsgBox("Thank you for answering! ^-^ ",0,"<3")
